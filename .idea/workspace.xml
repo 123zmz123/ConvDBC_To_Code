@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10adb7de-83e1-4e5e-92a9-4fb3b086c54d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DBC_to_M.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1599">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#131#213#0" expanded="false" />
+                <element signature="e#239#1052#0" expanded="false" />
+                <element signature="e#2143#2252#0" expanded="false" />
+                <element signature="e#2405#2894#0" expanded="false" />
+                <element signature="e#3059#3559#0" expanded="false" />
+                <element signature="e#3919#4024#0" expanded="false" />
+                <element signature="e#4076#4824#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver_Vechicle_Read.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Read.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver_Vechicle_Send.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Send.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dd.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dd.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="4246" column="22" lean-forward="false" selection-start-line="4246" selection-start-column="18" selection-end-line="4246" selection-end-column="22" />
+              <folding>
+                <element signature="e#864#1193#0" expanded="false" />
+                <element signature="e#1573#3107#0" expanded="false" />
+                <element signature="e#3117#4651#0" expanded="false" />
+                <element signature="e#4661#6195#0" expanded="false" />
+                <element signature="e#6205#11921#0" expanded="false" />
+                <element signature="e#11931#17254#0" expanded="false" />
+                <element signature="e#17264#18440#0" expanded="false" />
+                <element signature="e#18450#21389#0" expanded="false" />
+                <element signature="e#21399#22930#0" expanded="false" />
+                <element signature="e#24821#26687#0" expanded="false" />
+                <element signature="e#26697#30321#0" expanded="false" />
+                <element signature="e#30331#32557#0" expanded="false" />
+                <element signature="e#32567#34443#0" expanded="false" />
+                <element signature="e#34453#39802#0" expanded="false" />
+                <element signature="e#39812#43434#0" expanded="false" />
+                <element signature="e#43444#46349#0" expanded="false" />
+                <element signature="e#46359#49264#0" expanded="false" />
+                <element signature="e#49274#52178#0" expanded="false" />
+                <element signature="e#52188#55085#0" expanded="false" />
+                <element signature="e#55095#56629#0" expanded="false" />
+                <element signature="e#56639#58173#0" expanded="false" />
+                <element signature="e#58183#59717#0" expanded="false" />
+                <element signature="e#59727#61261#0" expanded="false" />
+                <element signature="e#61271#62805#0" expanded="false" />
+                <element signature="e#62815#64349#0" expanded="false" />
+                <element signature="e#64359#65893#0" expanded="false" />
+                <element signature="e#65903#67437#0" expanded="false" />
+                <element signature="e#67447#68981#0" expanded="false" />
+                <element signature="e#68991#70525#0" expanded="false" />
+                <element signature="e#70535#72069#0" expanded="false" />
+                <element signature="e#72079#73613#0" expanded="false" />
+                <element signature="e#73623#75157#0" expanded="false" />
+                <element signature="e#75167#76701#0" expanded="false" />
+                <element signature="e#76711#78245#0" expanded="false" />
+                <element signature="e#78255#79789#0" expanded="false" />
+                <element signature="e#79799#81333#0" expanded="false" />
+                <element signature="e#81343#82877#0" expanded="false" />
+                <element signature="e#82887#84420#0" expanded="false" />
+                <element signature="e#84430#85960#0" expanded="false" />
+                <element signature="e#85970#87500#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.dbc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.dbc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="526" column="8" lean-forward="false" selection-start-line="526" selection-start-column="4" selection-end-line="526" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1656</find>
+      <find>817</find>
+      <find>1571</find>
+      <find>1539</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.dbc" />
+        <option value="$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Read.c" />
+        <option value="$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Send.c" />
+        <option value="$PROJECT_DIR$/DBC_to_M.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="convDBC_to_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="convDBC_to_M" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="convDBC_to_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="convDBC_to_M" type="462c0819:PsiDirectoryNode" />
+              <item name="C Example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="convDBC_to_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="convDBC_to_M" type="462c0819:PsiDirectoryNode" />
+              <item name="C Example" type="462c0819:PsiDirectoryNode" />
+              <item name="Driver_Vechicle_Read" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DBC_to_M">
+    <configuration name="DBC_to_M" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DBC_to_M.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="convDBC_to_M" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.DBC_to_M" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10adb7de-83e1-4e5e-92a9-4fb3b086c54d" name="Default" comment="" />
+      <created>1511917957810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511917957810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30866808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="74" column="37" lean-forward="false" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding>
+            <element signature="e#131#213#0" expanded="false" />
+            <element signature="e#239#1052#0" expanded="false" />
+            <element signature="e#2143#2252#0" expanded="false" />
+            <element signature="e#2405#2894#0" expanded="false" />
+            <element signature="e#3059#3559#0" expanded="false" />
+            <element signature="e#3919#4024#0" expanded="false" />
+            <element signature="e#4076#4824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Read.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Send.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.dbc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10520">
+          <caret line="526" column="8" lean-forward="false" selection-start-line="526" selection-start-column="4" selection-end-line="526" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84920">
+          <caret line="4246" column="22" lean-forward="false" selection-start-line="4246" selection-start-column="18" selection-end-line="4246" selection-end-column="22" />
+          <folding>
+            <element signature="e#864#1193#0" expanded="false" />
+            <element signature="e#1573#3107#0" expanded="false" />
+            <element signature="e#3117#4651#0" expanded="false" />
+            <element signature="e#4661#6195#0" expanded="false" />
+            <element signature="e#6205#11921#0" expanded="false" />
+            <element signature="e#11931#17254#0" expanded="false" />
+            <element signature="e#17264#18440#0" expanded="false" />
+            <element signature="e#18450#21389#0" expanded="false" />
+            <element signature="e#21399#22930#0" expanded="false" />
+            <element signature="e#24821#26687#0" expanded="false" />
+            <element signature="e#26697#30321#0" expanded="false" />
+            <element signature="e#30331#32557#0" expanded="false" />
+            <element signature="e#32567#34443#0" expanded="false" />
+            <element signature="e#34453#39802#0" expanded="false" />
+            <element signature="e#39812#43434#0" expanded="false" />
+            <element signature="e#43444#46349#0" expanded="false" />
+            <element signature="e#46359#49264#0" expanded="false" />
+            <element signature="e#49274#52178#0" expanded="false" />
+            <element signature="e#52188#55085#0" expanded="false" />
+            <element signature="e#55095#56629#0" expanded="false" />
+            <element signature="e#56639#58173#0" expanded="false" />
+            <element signature="e#58183#59717#0" expanded="false" />
+            <element signature="e#59727#61261#0" expanded="false" />
+            <element signature="e#61271#62805#0" expanded="false" />
+            <element signature="e#62815#64349#0" expanded="false" />
+            <element signature="e#64359#65893#0" expanded="false" />
+            <element signature="e#65903#67437#0" expanded="false" />
+            <element signature="e#67447#68981#0" expanded="false" />
+            <element signature="e#68991#70525#0" expanded="false" />
+            <element signature="e#70535#72069#0" expanded="false" />
+            <element signature="e#72079#73613#0" expanded="false" />
+            <element signature="e#73623#75157#0" expanded="false" />
+            <element signature="e#75167#76701#0" expanded="false" />
+            <element signature="e#76711#78245#0" expanded="false" />
+            <element signature="e#78255#79789#0" expanded="false" />
+            <element signature="e#79799#81333#0" expanded="false" />
+            <element signature="e#81343#82877#0" expanded="false" />
+            <element signature="e#82887#84420#0" expanded="false" />
+            <element signature="e#84430#85960#0" expanded="false" />
+            <element signature="e#85970#87500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#213#0" expanded="false" />
+            <element signature="e#239#1052#0" expanded="false" />
+            <element signature="e#2143#2252#0" expanded="false" />
+            <element signature="e#2405#2894#0" expanded="false" />
+            <element signature="e#3059#3559#0" expanded="false" />
+            <element signature="e#3919#4024#0" expanded="false" />
+            <element signature="e#4076#4824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Read.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Send.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29680">
+          <caret line="3977" column="35" lean-forward="true" selection-start-line="3977" selection-start-column="35" selection-end-line="3977" selection-end-column="35" />
+          <folding>
+            <element signature="e#864#1193#0" expanded="false" />
+            <element signature="e#1573#3107#0" expanded="false" />
+            <element signature="e#3117#4651#0" expanded="false" />
+            <element signature="e#4661#6195#0" expanded="false" />
+            <element signature="e#6205#11921#0" expanded="false" />
+            <element signature="e#11931#17254#0" expanded="false" />
+            <element signature="e#17264#18440#0" expanded="false" />
+            <element signature="e#18450#21389#0" expanded="false" />
+            <element signature="e#21399#22930#0" expanded="false" />
+            <element signature="e#24821#26687#0" expanded="false" />
+            <element signature="e#26697#30321#0" expanded="false" />
+            <element signature="e#30331#32557#0" expanded="false" />
+            <element signature="e#32567#34443#0" expanded="false" />
+            <element signature="e#34453#39802#0" expanded="false" />
+            <element signature="e#39812#43434#0" expanded="false" />
+            <element signature="e#43444#46349#0" expanded="false" />
+            <element signature="e#46359#49264#0" expanded="false" />
+            <element signature="e#49274#52178#0" expanded="false" />
+            <element signature="e#52188#55085#0" expanded="false" />
+            <element signature="e#55095#56629#0" expanded="false" />
+            <element signature="e#56639#58173#0" expanded="false" />
+            <element signature="e#58183#59717#0" expanded="false" />
+            <element signature="e#59727#61261#0" expanded="false" />
+            <element signature="e#61271#62805#0" expanded="false" />
+            <element signature="e#62815#64349#0" expanded="false" />
+            <element signature="e#64359#65893#0" expanded="false" />
+            <element signature="e#65903#67437#0" expanded="false" />
+            <element signature="e#67447#68981#0" expanded="false" />
+            <element signature="e#68991#70525#0" expanded="false" />
+            <element signature="e#70535#72069#0" expanded="false" />
+            <element signature="e#72079#73613#0" expanded="false" />
+            <element signature="e#73623#75157#0" expanded="false" />
+            <element signature="e#75167#76701#0" expanded="false" />
+            <element signature="e#76711#78245#0" expanded="false" />
+            <element signature="e#78255#79789#0" expanded="false" />
+            <element signature="e#79799#81333#0" expanded="false" />
+            <element signature="e#81343#82877#0" expanded="false" />
+            <element signature="e#82887#84420#0" expanded="false" />
+            <element signature="e#84430#85960#0" expanded="false" />
+            <element signature="e#85970#87500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.dbc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#213#0" expanded="false" />
+            <element signature="e#239#1052#0" expanded="false" />
+            <element signature="e#2143#2252#0" expanded="false" />
+            <element signature="e#2405#2894#0" expanded="false" />
+            <element signature="e#3059#3559#0" expanded="false" />
+            <element signature="e#3919#4024#0" expanded="false" />
+            <element signature="e#4076#4824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84480">
+          <caret line="4224" column="21" lean-forward="false" selection-start-line="4224" selection-start-column="21" selection-end-line="4224" selection-end-column="31" />
+          <folding>
+            <element signature="e#864#1193#0" expanded="false" />
+            <element signature="e#1573#3107#0" expanded="false" />
+            <element signature="e#3117#4651#0" expanded="false" />
+            <element signature="e#4661#6195#0" expanded="false" />
+            <element signature="e#6205#11921#0" expanded="false" />
+            <element signature="e#11931#17254#0" expanded="false" />
+            <element signature="e#17264#18440#0" expanded="false" />
+            <element signature="e#18450#21389#0" expanded="false" />
+            <element signature="e#21399#22930#0" expanded="false" />
+            <element signature="e#24821#26687#0" expanded="false" />
+            <element signature="e#26697#30321#0" expanded="false" />
+            <element signature="e#30331#32557#0" expanded="false" />
+            <element signature="e#32567#34443#0" expanded="false" />
+            <element signature="e#34453#39802#0" expanded="false" />
+            <element signature="e#39812#43434#0" expanded="false" />
+            <element signature="e#43444#46349#0" expanded="false" />
+            <element signature="e#46359#49264#0" expanded="false" />
+            <element signature="e#49274#52178#0" expanded="false" />
+            <element signature="e#52188#55085#0" expanded="false" />
+            <element signature="e#55095#56629#0" expanded="false" />
+            <element signature="e#56639#58173#0" expanded="false" />
+            <element signature="e#58183#59717#0" expanded="false" />
+            <element signature="e#59727#61261#0" expanded="false" />
+            <element signature="e#61271#62805#0" expanded="false" />
+            <element signature="e#62815#64349#0" expanded="false" />
+            <element signature="e#64359#65893#0" expanded="false" />
+            <element signature="e#65903#67437#0" expanded="false" />
+            <element signature="e#67447#68981#0" expanded="false" />
+            <element signature="e#68991#70525#0" expanded="false" />
+            <element signature="e#70535#72069#0" expanded="false" />
+            <element signature="e#72079#73613#0" expanded="false" />
+            <element signature="e#73623#75157#0" expanded="false" />
+            <element signature="e#75167#76701#0" expanded="false" />
+            <element signature="e#76711#78245#0" expanded="false" />
+            <element signature="e#78255#79789#0" expanded="false" />
+            <element signature="e#79799#81333#0" expanded="false" />
+            <element signature="e#81343#82877#0" expanded="false" />
+            <element signature="e#82887#84420#0" expanded="false" />
+            <element signature="e#84430#85960#0" expanded="false" />
+            <element signature="e#85970#87500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#213#0" expanded="false" />
+            <element signature="e#239#1052#0" expanded="false" />
+            <element signature="e#2143#2252#0" expanded="false" />
+            <element signature="e#2405#2894#0" expanded="false" />
+            <element signature="e#3059#3559#0" expanded="false" />
+            <element signature="e#3919#4024#0" expanded="false" />
+            <element signature="e#4076#4824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#864#1193#0" expanded="false" />
+            <element signature="e#1573#3107#0" expanded="false" />
+            <element signature="e#3117#4651#0" expanded="false" />
+            <element signature="e#4661#6195#0" expanded="false" />
+            <element signature="e#6205#11921#0" expanded="false" />
+            <element signature="e#11931#17254#0" expanded="false" />
+            <element signature="e#17264#18440#0" expanded="false" />
+            <element signature="e#18450#21389#0" expanded="false" />
+            <element signature="e#21399#22930#0" expanded="false" />
+            <element signature="e#24821#26687#0" expanded="false" />
+            <element signature="e#26697#30321#0" expanded="false" />
+            <element signature="e#30331#32557#0" expanded="false" />
+            <element signature="e#32567#34443#0" expanded="false" />
+            <element signature="e#34453#39802#0" expanded="false" />
+            <element signature="e#39812#43434#0" expanded="false" />
+            <element signature="e#43444#46349#0" expanded="false" />
+            <element signature="e#46359#49264#0" expanded="false" />
+            <element signature="e#49274#52178#0" expanded="false" />
+            <element signature="e#52188#55085#0" expanded="false" />
+            <element signature="e#55095#56629#0" expanded="false" />
+            <element signature="e#56639#58173#0" expanded="false" />
+            <element signature="e#58183#59717#0" expanded="false" />
+            <element signature="e#59727#61261#0" expanded="false" />
+            <element signature="e#61271#62805#0" expanded="false" />
+            <element signature="e#62815#64349#0" expanded="false" />
+            <element signature="e#64359#65893#0" expanded="false" />
+            <element signature="e#65903#67437#0" expanded="false" />
+            <element signature="e#67447#68981#0" expanded="false" />
+            <element signature="e#68991#70525#0" expanded="false" />
+            <element signature="e#70535#72069#0" expanded="false" />
+            <element signature="e#72079#73613#0" expanded="false" />
+            <element signature="e#73623#75157#0" expanded="false" />
+            <element signature="e#75167#76701#0" expanded="false" />
+            <element signature="e#76711#78245#0" expanded="false" />
+            <element signature="e#78255#79789#0" expanded="false" />
+            <element signature="e#79799#81333#0" expanded="false" />
+            <element signature="e#81343#82877#0" expanded="false" />
+            <element signature="e#82887#84420#0" expanded="false" />
+            <element signature="e#84430#85960#0" expanded="false" />
+            <element signature="e#85970#87500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/site-packages/canmatrix/dbc.py" />
+    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/site-packages/canmatrix/convert.py" />
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Read.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C Example/Driver_Vechicle_Read/Driver_Vechicle_Send.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="4246" column="22" lean-forward="false" selection-start-line="4246" selection-start-column="18" selection-end-line="4246" selection-end-column="22" />
+          <folding>
+            <element signature="e#864#1193#0" expanded="false" />
+            <element signature="e#1573#3107#0" expanded="false" />
+            <element signature="e#3117#4651#0" expanded="false" />
+            <element signature="e#4661#6195#0" expanded="false" />
+            <element signature="e#6205#11921#0" expanded="false" />
+            <element signature="e#11931#17254#0" expanded="false" />
+            <element signature="e#17264#18440#0" expanded="false" />
+            <element signature="e#18450#21389#0" expanded="false" />
+            <element signature="e#21399#22930#0" expanded="false" />
+            <element signature="e#24821#26687#0" expanded="false" />
+            <element signature="e#26697#30321#0" expanded="false" />
+            <element signature="e#30331#32557#0" expanded="false" />
+            <element signature="e#32567#34443#0" expanded="false" />
+            <element signature="e#34453#39802#0" expanded="false" />
+            <element signature="e#39812#43434#0" expanded="false" />
+            <element signature="e#43444#46349#0" expanded="false" />
+            <element signature="e#46359#49264#0" expanded="false" />
+            <element signature="e#49274#52178#0" expanded="false" />
+            <element signature="e#52188#55085#0" expanded="false" />
+            <element signature="e#55095#56629#0" expanded="false" />
+            <element signature="e#56639#58173#0" expanded="false" />
+            <element signature="e#58183#59717#0" expanded="false" />
+            <element signature="e#59727#61261#0" expanded="false" />
+            <element signature="e#61271#62805#0" expanded="false" />
+            <element signature="e#62815#64349#0" expanded="false" />
+            <element signature="e#64359#65893#0" expanded="false" />
+            <element signature="e#65903#67437#0" expanded="false" />
+            <element signature="e#67447#68981#0" expanded="false" />
+            <element signature="e#68991#70525#0" expanded="false" />
+            <element signature="e#70535#72069#0" expanded="false" />
+            <element signature="e#72079#73613#0" expanded="false" />
+            <element signature="e#73623#75157#0" expanded="false" />
+            <element signature="e#75167#76701#0" expanded="false" />
+            <element signature="e#76711#78245#0" expanded="false" />
+            <element signature="e#78255#79789#0" expanded="false" />
+            <element signature="e#79799#81333#0" expanded="false" />
+            <element signature="e#81343#82877#0" expanded="false" />
+            <element signature="e#82887#84420#0" expanded="false" />
+            <element signature="e#84430#85960#0" expanded="false" />
+            <element signature="e#85970#87500#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.dbc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="526" column="8" lean-forward="false" selection-start-line="526" selection-start-column="4" selection-end-line="526" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBC_to_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1599">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#213#0" expanded="false" />
+            <element signature="e#239#1052#0" expanded="false" />
+            <element signature="e#2143#2252#0" expanded="false" />
+            <element signature="e#2405#2894#0" expanded="false" />
+            <element signature="e#3059#3559#0" expanded="false" />
+            <element signature="e#3919#4024#0" expanded="false" />
+            <element signature="e#4076#4824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

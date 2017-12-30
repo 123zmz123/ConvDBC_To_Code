@@ -1,0 +1,4314 @@
+{
+    "messages": [
+        {
+            "id": 1656,
+            "is_extended_frame": false,
+            "name": "BMS_GW_678",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU100",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU99",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU98",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU97",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1655,
+            "is_extended_frame": false,
+            "name": "BMS_GW_677",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU96",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU95",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU94",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU93",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1654,
+            "is_extended_frame": false,
+            "name": "BMS_GW_676",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU92",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU91",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU90",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU89",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1653,
+            "is_extended_frame": false,
+            "name": "BMS_GW_675",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU88",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU87",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU86",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU85",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 272,
+            "is_extended_frame": false,
+            "name": "VCU_BMS_110",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUCRCID110",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCU110CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUChrgSspdReq",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "MilgChrgMode",
+                    "offset": 0.0,
+                    "start_bit": 44
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUSRSCrashOutpSts",
+                    "offset": 0.0,
+                    "start_bit": 36
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUSRSCrashOutpStsChkS",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUChrgAllwd",
+                    "offset": 0.0,
+                    "start_bit": 31
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUBattIntrHeatAllwd",
+                    "offset": 0.0,
+                    "start_bit": 30
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "SRSCrashSts",
+                    "offset": 0.0,
+                    "start_bit": 29
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUBMSSOCEna",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "CHMAsignalSts",
+                    "offset": 0.0,
+                    "start_bit": 27
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUChrgIReqLimFac",
+                    "offset": 0.0,
+                    "start_bit": 25
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUVehSts",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUBMSOperModReq",
+                    "offset": 0.0,
+                    "start_bit": 19
+                },
+                {
+                    "bit_length": 7,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUSOCDisp",
+                    "offset": 0.0,
+                    "start_bit": 9
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "VCUActHVPwrCnsExt",
+                    "offset": 0.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 817,
+            "is_extended_frame": false,
+            "name": "OBC_BMS_331",
+            "signals": [
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCInpIOver",
+                    "offset": 0.0,
+                    "start_bit": 63
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCOutpIOver",
+                    "offset": 0.0,
+                    "start_bit": 62
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCTOvrErr",
+                    "offset": 0.0,
+                    "start_bit": 61
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBC331CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCT",
+                    "offset": -40.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCCANErr",
+                    "offset": 0.0,
+                    "start_bit": 53
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCHwErr",
+                    "offset": 0.0,
+                    "start_bit": 52
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCInpUOver",
+                    "offset": 0.0,
+                    "start_bit": 51
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCOutpUOver",
+                    "offset": 0.0,
+                    "start_bit": 50
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCInpUUnder",
+                    "offset": 0.0,
+                    "start_bit": 49
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCOutpUUnder",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCChrgDcI",
+                    "offset": 0.0,
+                    "start_bit": 46
+                },
+                {
+                    "bit_length": 13,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCChrgDcU",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCChrgInpAcI",
+                    "offset": 0.0,
+                    "start_bit": 21
+                },
+                {
+                    "bit_length": 9,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCChrgInpAcU",
+                    "offset": 0.0,
+                    "start_bit": 15
+                }
+            ]
+        },
+        {
+            "id": 801,
+            "is_extended_frame": false,
+            "name": "OBC_BMS_321",
+            "signals": [
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBC321CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "CPSts",
+                    "offset": 0.0,
+                    "start_bit": 15
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCCPValue",
+                    "offset": 0.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 785,
+            "is_extended_frame": false,
+            "name": "OBC_BMS_311",
+            "signals": [
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCS2Stus",
+                    "offset": 0.0,
+                    "start_bit": 63
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBC311CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCChrgSts",
+                    "offset": 0.0,
+                    "start_bit": 50
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "PlugLockStatus",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCVehInletT",
+                    "offset": -40.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 10.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCMaxChrgOutpPwrAvl",
+                    "offset": 0.0,
+                    "start_bit": 39
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCMaxChrgOutpIAvl",
+                    "offset": 0.0,
+                    "start_bit": 17
+                },
+                {
+                    "bit_length": 13,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OBCMaxChrgOutpUAvl",
+                    "offset": 0.0,
+                    "start_bit": 11
+                }
+            ]
+        },
+        {
+            "id": 1299,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_513",
+            "signals": [
+                {
+                    "bit_length": 10,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSManfctCode",
+                    "offset": 0.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCalDataVers",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSHwVers",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSwVers",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1043,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_413",
+            "signals": [
+                {
+                    "bit_length": 13,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCCSngR",
+                    "offset": 0.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 12,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSErrNum",
+                    "offset": 0.0,
+                    "start_bit": 35
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSErrAmnt",
+                    "offset": 0.0,
+                    "start_bit": 31
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattHeatI",
+                    "offset": 0.0,
+                    "start_bit": 19
+                },
+                {
+                    "bit_length": 13,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCC2SngR",
+                    "offset": 0.0,
+                    "start_bit": 11
+                }
+            ]
+        },
+        {
+            "id": 803,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_323",
+            "signals": [
+                {
+                    "bit_length": 15,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRmaingCpby",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSEquilnSts",
+                    "offset": 0.0,
+                    "start_bit": 46
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOH",
+                    "offset": 0.0,
+                    "start_bit": 30
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOCMin",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOCMax",
+                    "offset": 0.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 787,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_313",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCRCChk313",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSAvrgBattT",
+                    "offset": -40.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMILReq",
+                    "offset": 0.0,
+                    "start_bit": 53
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMS313CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 12,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSIsolationR",
+                    "offset": 0.0,
+                    "start_bit": 46
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSPredChrgTi",
+                    "offset": 0.0,
+                    "start_bit": 30
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattIntrHeatReq",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattIntrHeatActv",
+                    "offset": 0.0,
+                    "start_bit": 26
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMinBattT",
+                    "offset": -40.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxBattT",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 563,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_233",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCRCChk233",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMS233CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxChrgI",
+                    "offset": 0.0,
+                    "start_bit": 44
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxDchaI",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 9,
+                    "factor": 0.5,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxChrgPwr",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 9,
+                    "factor": 0.5,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxDchaPwr",
+                    "offset": 0.0,
+                    "start_bit": 15
+                }
+            ]
+        },
+        {
+            "id": 531,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_213",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCRCChk213",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMS213CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 13,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattExU",
+                    "offset": 0.0,
+                    "start_bit": 25
+                },
+                {
+                    "bit_length": 9,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMinDchaIU",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 9,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSMaxChrgU",
+                    "offset": 0.0,
+                    "start_bit": 15
+                }
+            ]
+        },
+        {
+            "id": 275,
+            "is_extended_frame": false,
+            "name": "BMS_VCU_113",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCRCChk113",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRlyWlddErr",
+                    "offset": 0.0,
+                    "start_bit": 55
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSInsulationSts",
+                    "offset": 0.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSInsulationIntrErr",
+                    "offset": 0.0,
+                    "start_bit": 53
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSInsulationHVLoadErr",
+                    "offset": 0.0,
+                    "start_bit": 52
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMS113CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOperMod",
+                    "offset": 0.0,
+                    "start_bit": 45
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOBCOperModReq",
+                    "offset": 0.0,
+                    "start_bit": 43
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSPwrUpAllw",
+                    "offset": 0.0,
+                    "start_bit": 42
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSHVILSts",
+                    "offset": 0.0,
+                    "start_bit": 41
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCrashSts",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOC",
+                    "offset": 0.0,
+                    "start_bit": 35
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSFltRnk",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 14,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattI",
+                    "offset": -600.0,
+                    "start_bit": 29
+                },
+                {
+                    "bit_length": 13,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattU",
+                    "offset": 0.0,
+                    "start_bit": 11
+                }
+            ]
+        },
+        {
+            "id": 771,
+            "is_extended_frame": false,
+            "name": "BMS_OBC_303",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCRCChk303",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMS303CycCntr",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 3,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSChrgMod",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSChrgErrInfo",
+                    "offset": 0.0,
+                    "start_bit": 43
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSChrgSts",
+                    "offset": 0.0,
+                    "start_bit": 41
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSDCChrgRlySts",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOBCMaxChrgPwrAvl",
+                    "offset": 0.0,
+                    "start_bit": 35
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOBCHeatModeCtrl",
+                    "offset": 0.0,
+                    "start_bit": 34
+                },
+                {
+                    "bit_length": 11,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSChrgIReq",
+                    "offset": 0.0,
+                    "start_bit": 29
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSChrgUReq",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1715,
+            "is_extended_frame": false,
+            "name": "BMS_GW_6B3",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT32",
+                    "offset": -40.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT31",
+                    "offset": -40.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT30",
+                    "offset": -40.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT29",
+                    "offset": -40.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT28",
+                    "offset": -40.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT27",
+                    "offset": -40.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT26",
+                    "offset": -40.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT25",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1699,
+            "is_extended_frame": false,
+            "name": "BMS_GW_6A3",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT24",
+                    "offset": -40.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT23",
+                    "offset": -40.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT22",
+                    "offset": -40.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT21",
+                    "offset": -40.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT20",
+                    "offset": -40.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT19",
+                    "offset": -40.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT18",
+                    "offset": -40.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT17",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1683,
+            "is_extended_frame": false,
+            "name": "BMS_GW_693",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT16",
+                    "offset": -40.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT15",
+                    "offset": -40.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT14",
+                    "offset": -40.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT13",
+                    "offset": -40.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT9",
+                    "offset": -40.0,
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT12",
+                    "offset": -40.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT11",
+                    "offset": -40.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT10",
+                    "offset": -40.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1667,
+            "is_extended_frame": false,
+            "name": "BMS_GW_683",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT8",
+                    "offset": -40.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT7",
+                    "offset": -40.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT6",
+                    "offset": -40.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT5",
+                    "offset": -40.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT4",
+                    "offset": -40.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT3",
+                    "offset": -40.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT2",
+                    "offset": -40.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModT1",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1647,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66F",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU64",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU63",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU62",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU61",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1646,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66E",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU60",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU59",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU58",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU57",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1645,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66D",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU56",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU55",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU54",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU53",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1644,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66C",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU52",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU51",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU50",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU49",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1643,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66B",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU48",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU47",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU46",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU45",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1642,
+            "is_extended_frame": false,
+            "name": "BMS_GW_66A",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU44",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU43",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU42",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU41",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1652,
+            "is_extended_frame": false,
+            "name": "BMS_GW_674",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU84",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU83",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU82",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU81",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1651,
+            "is_extended_frame": false,
+            "name": "BMS_GW_673",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU80",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU79",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU78",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU77",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1650,
+            "is_extended_frame": false,
+            "name": "BMS_GW_672",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU76",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU75",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU74",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU73",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1649,
+            "is_extended_frame": false,
+            "name": "BMS_GW_671",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU72",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU71",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU70",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU69",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1648,
+            "is_extended_frame": false,
+            "name": "BMS_GW_670",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU68",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU67",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU66",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU65",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1641,
+            "is_extended_frame": false,
+            "name": "BMS_GW_669",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU40",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU39",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU38",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU37",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1640,
+            "is_extended_frame": false,
+            "name": "BMS_GW_668",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU36",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU35",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU34",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU33",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1639,
+            "is_extended_frame": false,
+            "name": "BMS_GW_667",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU32",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU31",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU30",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU29",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1638,
+            "is_extended_frame": false,
+            "name": "BMS_GW_666",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU28",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU27",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU26",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU25",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1637,
+            "is_extended_frame": false,
+            "name": "BMS_GW_665",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU24",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU23",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU22",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU21",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1636,
+            "is_extended_frame": false,
+            "name": "BMS_GW_664",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU20",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU19",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU18",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU17",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1635,
+            "is_extended_frame": false,
+            "name": "BMS_GW_663",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU16",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU15",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU14",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU13",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1634,
+            "is_extended_frame": false,
+            "name": "BMS_GW_662",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU12",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU11",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU10",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU9",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1633,
+            "is_extended_frame": false,
+            "name": "BMS_GW_661",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU8",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU7",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU6",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU5",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1632,
+            "is_extended_frame": false,
+            "name": "BMS_GW_660",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU4",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU3",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU2",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellU1",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1619,
+            "is_extended_frame": false,
+            "name": "BMS_GW_653",
+            "signals": [
+                {
+                    "bit_length": 7,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BLC_CellNr",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 2,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOCUproMod",
+                    "offset": 0.0,
+                    "start_bit": 38
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattResidPwr",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.2,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattRatedAh",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1603,
+            "is_extended_frame": false,
+            "name": "BMS_GW_643",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "SOC_counter_Disp",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMaxBattNum",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMaxSesrNum",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMax",
+                    "offset": -40.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMinBattNum",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMinSesrNum",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTMin",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1587,
+            "is_extended_frame": false,
+            "name": "BMS_GW_633",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMaxBattNum",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMaxCellNum",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMax",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMinBattNum",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMinCellNum",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.001,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUMin",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1579,
+            "is_extended_frame": false,
+            "name": "BMS_GW_62B",
+            "signals": [
+                {
+                    "bit_length": 16,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OH_NVM_SumVehBLCCap",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OH_NVM_VehBLCNr",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OH_NVM_SumCharBLCCap",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 16,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "OH_NVM_CharBLCNr",
+                    "offset": 0.0,
+                    "start_bit": 8
+                }
+            ]
+        },
+        {
+            "id": 1575,
+            "is_extended_frame": false,
+            "name": "BMS_GW_627",
+            "signals": [
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts89",
+                    "offset": 0.0,
+                    "start_bit": 31
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts88",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts87",
+                    "offset": 0.0,
+                    "start_bit": 17
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts86",
+                    "offset": 0.0,
+                    "start_bit": 18
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts85",
+                    "offset": 0.0,
+                    "start_bit": 19
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts84",
+                    "offset": 0.0,
+                    "start_bit": 20
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts83",
+                    "offset": 0.0,
+                    "start_bit": 21
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts82",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts81",
+                    "offset": 0.0,
+                    "start_bit": 23
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts80",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts99",
+                    "offset": 0.0,
+                    "start_bit": 37
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts98",
+                    "offset": 0.0,
+                    "start_bit": 38
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts97",
+                    "offset": 0.0,
+                    "start_bit": 39
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts96",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts95",
+                    "offset": 0.0,
+                    "start_bit": 25
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts94",
+                    "offset": 0.0,
+                    "start_bit": 26
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts93",
+                    "offset": 0.0,
+                    "start_bit": 27
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts92",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts91",
+                    "offset": 0.0,
+                    "start_bit": 29
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts90",
+                    "offset": 0.0,
+                    "start_bit": 30
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts108",
+                    "offset": 0.0,
+                    "start_bit": 44
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts107",
+                    "offset": 0.0,
+                    "start_bit": 45
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts106",
+                    "offset": 0.0,
+                    "start_bit": 46
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts105",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts104",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts103",
+                    "offset": 0.0,
+                    "start_bit": 33
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts102",
+                    "offset": 0.0,
+                    "start_bit": 34
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts101",
+                    "offset": 0.0,
+                    "start_bit": 35
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts100",
+                    "offset": 0.0,
+                    "start_bit": 36
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts79",
+                    "offset": 0.0,
+                    "start_bit": 9
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts78",
+                    "offset": 0.0,
+                    "start_bit": 10
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts77",
+                    "offset": 0.0,
+                    "start_bit": 11
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts76",
+                    "offset": 0.0,
+                    "start_bit": 12
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts75",
+                    "offset": 0.0,
+                    "start_bit": 13
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts74",
+                    "offset": 0.0,
+                    "start_bit": 14
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts73",
+                    "offset": 0.0,
+                    "start_bit": 15
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts72",
+                    "offset": 0.0,
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts71",
+                    "offset": 0.0,
+                    "start_bit": 1
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts70",
+                    "offset": 0.0,
+                    "start_bit": 2
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts69",
+                    "offset": 0.0,
+                    "start_bit": 3
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts68",
+                    "offset": 0.0,
+                    "start_bit": 4
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts67",
+                    "offset": 0.0,
+                    "start_bit": 5
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts66",
+                    "offset": 0.0,
+                    "start_bit": 6
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts65",
+                    "offset": 0.0,
+                    "start_bit": 7
+                }
+            ]
+        },
+        {
+            "id": 1574,
+            "is_extended_frame": false,
+            "name": "BMS_GW_626",
+            "signals": [
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts64",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts63",
+                    "offset": 0.0,
+                    "start_bit": 57
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts62",
+                    "offset": 0.0,
+                    "start_bit": 58
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts61",
+                    "offset": 0.0,
+                    "start_bit": 59
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts60",
+                    "offset": 0.0,
+                    "start_bit": 60
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts59",
+                    "offset": 0.0,
+                    "start_bit": 61
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts58",
+                    "offset": 0.0,
+                    "start_bit": 62
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts57",
+                    "offset": 0.0,
+                    "start_bit": 63
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts56",
+                    "offset": 0.0,
+                    "start_bit": 48
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts55",
+                    "offset": 0.0,
+                    "start_bit": 49
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts54",
+                    "offset": 0.0,
+                    "start_bit": 50
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts53",
+                    "offset": 0.0,
+                    "start_bit": 51
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts52",
+                    "offset": 0.0,
+                    "start_bit": 52
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts51",
+                    "offset": 0.0,
+                    "start_bit": 53
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts50",
+                    "offset": 0.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts49",
+                    "offset": 0.0,
+                    "start_bit": 55
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts48",
+                    "offset": 0.0,
+                    "start_bit": 40
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts47",
+                    "offset": 0.0,
+                    "start_bit": 41
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts46",
+                    "offset": 0.0,
+                    "start_bit": 42
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts45",
+                    "offset": 0.0,
+                    "start_bit": 43
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts44",
+                    "offset": 0.0,
+                    "start_bit": 44
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts43",
+                    "offset": 0.0,
+                    "start_bit": 45
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts42",
+                    "offset": 0.0,
+                    "start_bit": 46
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts41",
+                    "offset": 0.0,
+                    "start_bit": 47
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts40",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts39",
+                    "offset": 0.0,
+                    "start_bit": 33
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts38",
+                    "offset": 0.0,
+                    "start_bit": 34
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts37",
+                    "offset": 0.0,
+                    "start_bit": 35
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts36",
+                    "offset": 0.0,
+                    "start_bit": 36
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts35",
+                    "offset": 0.0,
+                    "start_bit": 37
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts34",
+                    "offset": 0.0,
+                    "start_bit": 38
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts33",
+                    "offset": 0.0,
+                    "start_bit": 39
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts32",
+                    "offset": 0.0,
+                    "start_bit": 24
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts31",
+                    "offset": 0.0,
+                    "start_bit": 25
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts30",
+                    "offset": 0.0,
+                    "start_bit": 26
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts29",
+                    "offset": 0.0,
+                    "start_bit": 27
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts28",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts27",
+                    "offset": 0.0,
+                    "start_bit": 29
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts26",
+                    "offset": 0.0,
+                    "start_bit": 30
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts25",
+                    "offset": 0.0,
+                    "start_bit": 31
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts24",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts23",
+                    "offset": 0.0,
+                    "start_bit": 17
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts22",
+                    "offset": 0.0,
+                    "start_bit": 18
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts21",
+                    "offset": 0.0,
+                    "start_bit": 19
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts20",
+                    "offset": 0.0,
+                    "start_bit": 20
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts19",
+                    "offset": 0.0,
+                    "start_bit": 21
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts18",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts17",
+                    "offset": 0.0,
+                    "start_bit": 23
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts16",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts15",
+                    "offset": 0.0,
+                    "start_bit": 9
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts14",
+                    "offset": 0.0,
+                    "start_bit": 10
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts13",
+                    "offset": 0.0,
+                    "start_bit": 11
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts12",
+                    "offset": 0.0,
+                    "start_bit": 12
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts11",
+                    "offset": 0.0,
+                    "start_bit": 13
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts10",
+                    "offset": 0.0,
+                    "start_bit": 14
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts9",
+                    "offset": 0.0,
+                    "start_bit": 15
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts8",
+                    "offset": 0.0,
+                    "start_bit": 0
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts7",
+                    "offset": 0.0,
+                    "start_bit": 1
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts6",
+                    "offset": 0.0,
+                    "start_bit": 2
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts5",
+                    "offset": 0.0,
+                    "start_bit": 3
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts4",
+                    "offset": 0.0,
+                    "start_bit": 4
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts3",
+                    "offset": 0.0,
+                    "start_bit": 5
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts2",
+                    "offset": 0.0,
+                    "start_bit": 6
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRMUCellEquilnSts1",
+                    "offset": 0.0,
+                    "start_bit": 7
+                }
+            ]
+        },
+        {
+            "id": 1571,
+            "is_extended_frame": false,
+            "name": "BMS_GW_623",
+            "signals": [
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBatt1TMax",
+                    "offset": -40.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBatt1TMin",
+                    "offset": -40.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1555,
+            "is_extended_frame": false,
+            "name": "BMS_GW_613",
+            "signals": [
+                {
+                    "bit_length": 7,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "SOH_MinCpNr_Disp",
+                    "offset": 0.0,
+                    "start_bit": 63
+                },
+                {
+                    "bit_length": 7,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "SOH_MaxCpNr_Disp",
+                    "offset": 0.0,
+                    "start_bit": 56
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOHMinCp",
+                    "offset": 0.0,
+                    "start_bit": 54
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSSOHMaxCp",
+                    "offset": 0.0,
+                    "start_bit": 32
+                },
+                {
+                    "bit_length": 10,
+                    "factor": 0.1,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSVehicleRunmode_SOH",
+                    "offset": 0.0,
+                    "start_bit": 26
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattUErr",
+                    "offset": 0.0,
+                    "start_bit": 23
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattPoleTOver",
+                    "offset": 0.0,
+                    "start_bit": 22
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSRESSErr",
+                    "offset": 0.0,
+                    "start_bit": 21
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattSOCJump",
+                    "offset": 0.0,
+                    "start_bit": 20
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSVehCANErr",
+                    "offset": 0.0,
+                    "start_bit": 15
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattSOCLo",
+                    "offset": 0.0,
+                    "start_bit": 14
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattSOCHi",
+                    "offset": 0.0,
+                    "start_bit": 13
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattSOCUnder",
+                    "offset": 0.0,
+                    "start_bit": 12
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOverCrrtChrg",
+                    "offset": 0.0,
+                    "start_bit": 11
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSOverCrrtDischrg",
+                    "offset": 0.0,
+                    "start_bit": 10
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattMatchErr",
+                    "offset": 0.0,
+                    "start_bit": 9
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattconsistErr",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUUnder",
+                    "offset": 0.0,
+                    "start_bit": 7
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellUOver",
+                    "offset": 0.0,
+                    "start_bit": 6
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSDeltaUOver",
+                    "offset": 0.0,
+                    "start_bit": 5
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattUnder",
+                    "offset": 0.0,
+                    "start_bit": 4
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattUOver",
+                    "offset": 0.0,
+                    "start_bit": 3
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellTUnder",
+                    "offset": 0.0,
+                    "start_bit": 2
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellTOver",
+                    "offset": 0.0,
+                    "start_bit": 1
+                },
+                {
+                    "bit_length": 1,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSDeltaTOver",
+                    "offset": 0.0,
+                    "start_bit": 0
+                }
+            ]
+        },
+        {
+            "id": 1539,
+            "is_extended_frame": false,
+            "name": "BMS_GW_603",
+            "signals": [
+                {
+                    "bit_length": 4,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattNum1",
+                    "offset": 0.0,
+                    "start_bit": 28
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBatt1TSnsrNumTot",
+                    "offset": 0.0,
+                    "start_bit": 44
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBatt1CellNumTot",
+                    "offset": 0.0,
+                    "start_bit": 36
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSModTSnsrNumTot",
+                    "offset": 0.0,
+                    "start_bit": 16
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSCellNumTot",
+                    "offset": 0.0,
+                    "start_bit": 8
+                },
+                {
+                    "bit_length": 8,
+                    "factor": 1.0,
+                    "is_big_endian": true,
+                    "is_float": false,
+                    "is_signed": false,
+                    "name": "BMSBattNumTot",
+                    "offset": 0.0,
+                    "start_bit": 0
+                }
+            ]
+        }
+    ]
+}

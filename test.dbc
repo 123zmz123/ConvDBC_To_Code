@@ -1,0 +1,834 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: DCDC GW VCU OBC BMS
+
+
+BO_ 1656 BMS_GW_678: 8 BMS
+ SG_ BMSCellU100 : 55|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU99 : 39|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU98 : 23|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU97 : 7|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+
+BO_ 1655 BMS_GW_677: 8 BMS
+ SG_ BMSCellU96 : 55|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU95 : 39|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU94 : 23|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU93 : 7|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+
+BO_ 1654 BMS_GW_676: 8 BMS
+ SG_ BMSCellU92 : 55|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU91 : 39|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU90 : 23|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU89 : 7|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+
+BO_ 1653 BMS_GW_675: 8 BMS
+ SG_ BMSCellU88 : 55|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU87 : 39|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU86 : 23|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+ SG_ BMSCellU85 : 7|16@0+ (0.001,0) [0|18] "V" Vector__XXX
+
+BO_ 272 VCU_BMS_110: 8 VCU
+ SG_ VCUCRCID110 : 63|8@0+ (1,0) [0|255] ""  BMS
+ SG_ VCU110CycCntr : 51|4@0+ (1,0) [0|14] ""  BMS
+ SG_ VCUChrgSspdReq : 47|1@0+ (1,0) [0|1] ""  BMS
+ SG_ MilgChrgMode : 46|3@0+ (1,0) [0|7] ""  BMS
+ SG_ VCUSRSCrashOutpSts : 39|4@0+ (1,0) [0|15] ""  BMS
+ SG_ VCUSRSCrashOutpStsChkS : 35|4@0+ (1,0) [0|15] ""  BMS
+ SG_ VCUChrgAllwd : 31|1@0+ (1,0) [0|1] ""  BMS
+ SG_ VCUBattIntrHeatAllwd : 30|1@0+ (1,0) [0|1] ""  BMS
+ SG_ SRSCrashSts : 29|1@0+ (1,0) [0|1] ""  BMS
+ SG_ VCUBMSSOCEna : 28|1@0+ (1,0) [0|1] ""  BMS
+ SG_ CHMAsignalSts : 27|1@0+ (1,0) [0|1] ""  BMS
+ SG_ VCUChrgIReqLimFac : 26|2@0+ (1,0) [0|3] ""  BMS
+ SG_ VCUVehSts : 8|3@0+ (1,0) [0|7] ""  BMS
+ SG_ VCUBMSOperModReq : 21|3@0+ (1,0) [0|5] ""  BMS
+ SG_ VCUSOCDisp : 15|7@0+ (1,0) [0|100] "%"  BMS
+ SG_ VCUActHVPwrCnsExt : 7|8@0+ (0.1,0) [0|10] "kw"  BMS
+
+BO_ 817 OBC_BMS_331: 8 OBC
+ SG_ OBCInpIOver : 63|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCOutpIOver : 62|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCTOvrErr : 61|1@0+ (1,0) [0|1] ""  VCU,BMS
+ SG_ OBC331CycCntr : 59|4@0+ (1,0) [0|14] ""  BMS
+ SG_ OBCT : 45|8@0+ (1,-40) [-40|120] "°„C"  VCU,BMS
+ SG_ OBCCANErr : 53|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCHwErr : 52|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCInpUOver : 51|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCOutpUOver : 50|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCInpUUnder : 49|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCOutpUUnder : 48|1@0+ (1,0) [0|1] ""  BMS
+ SG_ OBCChrgDcI : 39|10@0+ (0.1,0) [0|100] "A"  VCU,BMS
+ SG_ OBCChrgDcU : 20|13@0+ (0.1,0) [0|500] "V"  VCU,BMS
+ SG_ OBCChrgInpAcI : 14|10@0+ (0.1,0) [0|100] "A"  VCU,BMS
+ SG_ OBCChrgInpAcU : 7|9@0+ (1,0) [0|500] "V"  VCU,BMS
+
+BO_ 801 OBC_BMS_321: 8 OBC
+ SG_ OBC321CycCntr : 59|4@0+ (1,0) [0|14] ""  BMS
+ SG_ CPSts : 15|1@0+ (1,0) [0|1] ""  VCU,BMS
+ SG_ OBCCPValue : 7|8@0+ (1,0) [0|100] "%"  VCU,BMS
+
+BO_ 785 OBC_BMS_311: 8 OBC
+ SG_ OBCS2Stus : 63|1@0+ (1,0) [0|1] ""  VCU,BMS
+ SG_ OBC311CycCntr : 59|4@0+ (1,0) [0|14] ""  BMS
+ SG_ OBCChrgSts : 53|4@0+ (1,0) [0|6] ""  VCU,BMS
+ SG_ PlugLockStatus : 49|2@0+ (1,0) [0|2] ""  BMS
+ SG_ OBCVehInletT : 38|8@0+ (1,-40) [-40|125] "°Ê"  VCU,BMS
+ SG_ OBCMaxChrgOutpPwrAvl : 16|10@0+ (10,0) [0|10000] "w"  VCU,BMS
+ SG_ OBCMaxChrgOutpIAvl : 10|10@0+ (0.1,0) [0|100] "A"  VCU,BMS
+ SG_ OBCMaxChrgOutpUAvl : 7|13@0+ (0.1,0) [0|500] "V"  VCU,BMS
+
+BO_ 1299 BMS_VCU_513: 8 BMS
+ SG_ BMSManfctCode : 47|10@0+ (1,0) [0|1000] ""  VCU
+ SG_ BMSCalDataVers : 31|16@0+ (1,0) [0|65535] ""  VCU
+ SG_ BMSHwVers : 23|8@0+ (1,0) [0|255] ""  VCU
+ SG_ BMSSwVers : 7|16@0+ (1,0) [0|65535] ""  VCU
+
+BO_ 1043 BMS_VCU_413: 8 BMS
+ SG_ BMSCCSngR : 34|13@0+ (1,0) [0|8000] "¶∏"  VCU
+ SG_ BMSErrNum : 30|12@0+ (1,0) [0|4000] ""  GW,VCU
+ SG_ BMSErrAmnt : 18|4@0+ (1,0) [0|15] ""  GW,VCU
+ SG_ BMSBattHeatI : 10|8@0+ (0.1,0) [0|25] "A"  VCU
+ SG_ BMSCC2SngR : 7|13@0+ (1,0) [0|8000] "¶∏"  VCU
+
+BO_ 803 BMS_VCU_323: 8 BMS
+ SG_ BMSRmaingCpby : 29|15@0+ (0.1,0) [0|500] "Ah"  VCU
+ SG_ BMSEquilnSts : 46|1@0+ (1,0) [0|1] ""  GW,VCU
+ SG_ BMSSOH : 23|10@0+ (0.1,0) [0|100] "%"  VCU
+ SG_ BMSSOCMin : 15|8@0+ (1,0) [0|100] "%"  VCU
+ SG_ BMSSOCMax : 7|8@0+ (1,0) [0|100] "%"  VCU
+
+BO_ 787 BMS_VCU_313: 8 BMS
+ SG_ BMSCRCChk313 : 63|8@0+ (1,0) [0|255] ""  VCU
+ SG_ BMSAvrgBattT : 45|8@0+ (1,-40) [-40|125] "°„C"  VCU
+ SG_ BMSMILReq : 53|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMS313CycCntr : 51|4@0+ (1,0) [0|14] ""  VCU
+ SG_ BMSIsolationR : 25|12@0+ (1,0) [0|3000] "k¶∏"  VCU
+ SG_ BMSPredChrgTi : 23|10@0+ (1,0) [0|1000] "min"  GW,VCU
+ SG_ BMSBattIntrHeatReq : 29|2@0+ (1,0) [0|2] ""  VCU
+ SG_ BMSBattIntrHeatActv : 27|2@0+ (1,0) [0|2] ""  VCU
+ SG_ BMSMinBattT : 15|8@0+ (1,-40) [-40|125] "°„C"  GW,VCU
+ SG_ BMSMaxBattT : 7|8@0+ (1,-40) [-40|125] "°„C"  GW,VCU
+
+BO_ 563 BMS_VCU_233: 8 BMS
+ SG_ BMSCRCChk233 : 63|8@0+ (1,0) [0|255] ""  VCU
+ SG_ BMS233CycCntr : 51|4@0+ (1,0) [0|14] ""  VCU
+ SG_ BMSMaxChrgI : 37|10@0+ (1,0) [0|600] "A"  VCU
+ SG_ BMSMaxDchaI : 21|10@0+ (1,0) [0|600] "A"  VCU
+ SG_ BMSMaxChrgPwr : 14|9@0+ (0.5,0) [0|200] "kw"  VCU
+ SG_ BMSMaxDchaPwr : 7|9@0+ (0.5,0) [0|200] "kw"  VCU
+
+BO_ 531 BMS_VCU_213: 8 BMS
+ SG_ BMSCRCChk213 : 63|8@0+ (1,0) [0|255] ""  VCU
+ SG_ BMS213CycCntr : 51|4@0+ (1,0) [0|14] ""  VCU
+ SG_ BMSBattExU : 21|13@0+ (0.1,0) [0|500] "V"  VCU
+ SG_ BMSMinDchaIU : 14|9@0+ (1,0) [0|500] "V"  VCU
+ SG_ BMSMaxChrgU : 7|9@0+ (1,0) [0|500] "V"  VCU
+
+BO_ 275 BMS_VCU_113: 8 BMS
+ SG_ BMSCRCChk113 : 63|8@0+ (1,0) [0|255] ""  VCU
+ SG_ BMSRlyWlddErr : 55|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSInsulationSts : 54|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSInsulationIntrErr : 53|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSInsulationHVLoadErr : 52|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMS113CycCntr : 51|4@0+ (1,0) [0|14] ""  VCU
+ SG_ BMSOperMod : 47|3@0+ (1,0) [0|7] ""  VCU,DCDC
+ SG_ BMSOBCOperModReq : 44|2@0+ (1,0) [0|3] ""  OBC
+ SG_ BMSPwrUpAllw : 42|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSHVILSts : 41|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSCrashSts : 40|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSSOC : 28|10@0+ (0.1,0) [0|100] "%"  VCU
+ SG_ BMSFltRnk : 34|3@0+ (1,0) [0|5] ""  VCU
+ SG_ BMSBattI : 10|14@0+ (0.1,-600) [-600|600] "A"  GW,VCU
+ SG_ BMSBattU : 7|13@0+ (0.1,0) [0|500] "V"  GW,VCU
+
+BO_ 771 BMS_OBC_303: 8 BMS
+ SG_ BMSCRCChk303 : 63|8@0+ (1,0) [0|255] ""  VCU,OBC
+ SG_ BMS303CycCntr : 51|4@0+ (1,0) [0|14] ""  VCU,OBC
+ SG_ BMSChrgMod : 33|3@0+ (1,0) [0|7] ""  VCU
+ SG_ BMSChrgErrInfo : 46|4@0+ (1,0) [0|15] ""  VCU
+ SG_ BMSChrgSts : 42|2@0+ (1,0) [0|3] ""  VCU
+ SG_ BMSDCChrgRlySts : 40|1@0+ (1,0) [0|1] ""  VCU
+ SG_ BMSOBCMaxChrgPwrAvl : 28|10@0+ (0.1,0) [0|100] "kw"  OBC
+ SG_ BMSOBCHeatModeCtrl : 34|1@0+ (1,0) [0|1] ""  OBC
+ SG_ BMSChrgIReq : 23|11@0+ (0.1,0) [0|200] "A"  VCU,OBC
+ SG_ BMSChrgUReq : 7|16@0+ (0.1,0) [0|500] "V"  VCU,OBC
+
+BO_ 1715 BMS_GW_6B3: 8 BMS
+ SG_ BMSModT32 : 63|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT31 : 55|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT30 : 47|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT29 : 39|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT28 : 31|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT27 : 23|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT26 : 15|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT25 : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1699 BMS_GW_6A3: 8 BMS
+ SG_ BMSModT24 : 63|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT23 : 55|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT22 : 47|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT21 : 39|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT20 : 31|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT19 : 23|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT18 : 15|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT17 : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1683 BMS_GW_693: 8 BMS
+ SG_ BMSModT16 : 63|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT15 : 55|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT14 : 47|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT13 : 39|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT9 : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT12 : 31|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT11 : 23|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT10 : 15|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1667 BMS_GW_683: 8 BMS
+ SG_ BMSModT8 : 63|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT7 : 55|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT6 : 47|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT5 : 39|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT4 : 31|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT3 : 23|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT2 : 15|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModT1 : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1647 BMS_GW_66F: 8 BMS
+ SG_ BMSCellU64 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU63 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU62 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU61 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1646 BMS_GW_66E: 8 BMS
+ SG_ BMSCellU60 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU59 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU58 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU57 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1645 BMS_GW_66D: 8 BMS
+ SG_ BMSCellU56 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU55 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU54 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU53 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1644 BMS_GW_66C: 8 BMS
+ SG_ BMSCellU52 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU51 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU50 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU49 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1643 BMS_GW_66B: 8 BMS
+ SG_ BMSCellU48 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU47 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU46 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU45 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1642 BMS_GW_66A: 8 BMS
+ SG_ BMSCellU44 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU43 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU42 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU41 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1652 BMS_GW_674: 8 BMS
+ SG_ BMSCellU84 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU83 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU82 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU81 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1651 BMS_GW_673: 8 BMS
+ SG_ BMSCellU80 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU79 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU78 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU77 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1650 BMS_GW_672: 8 BMS
+ SG_ BMSCellU76 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU75 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU74 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU73 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1649 BMS_GW_671: 8 BMS
+ SG_ BMSCellU72 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU71 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU70 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU69 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1648 BMS_GW_670: 8 BMS
+ SG_ BMSCellU68 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU67 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU66 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU65 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1641 BMS_GW_669: 8 BMS
+ SG_ BMSCellU40 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU39 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU38 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU37 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1640 BMS_GW_668: 8 BMS
+ SG_ BMSCellU36 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU35 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU34 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU33 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1639 BMS_GW_667: 8 BMS
+ SG_ BMSCellU32 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU31 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU30 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU29 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1638 BMS_GW_666: 8 BMS
+ SG_ BMSCellU28 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU27 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU26 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU25 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1637 BMS_GW_665: 8 BMS
+ SG_ BMSCellU24 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU23 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU22 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU21 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1636 BMS_GW_664: 8 BMS
+ SG_ BMSCellU20 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU19 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU18 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU17 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1635 BMS_GW_663: 8 BMS
+ SG_ BMSCellU16 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU15 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU14 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU13 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1634 BMS_GW_662: 8 BMS
+ SG_ BMSCellU12 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU11 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU10 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU9 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1633 BMS_GW_661: 8 BMS
+ SG_ BMSCellU8 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU7 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU6 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU5 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1632 BMS_GW_660: 8 BMS
+ SG_ BMSCellU4 : 55|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU3 : 39|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU2 : 23|16@0+ (0.001,0) [0|18] "V"  GW
+ SG_ BMSCellU1 : 7|16@0+ (0.001,0) [0|18] "V"  GW
+
+BO_ 1619 BMS_GW_653: 8 BMS
+ SG_ BLC_CellNr : 37|7@0+ (1,0) [0|108] ""  GW
+ SG_ BMSSOCUproMod : 39|2@0+ (1,0) [0|2] ""  GW
+ SG_ BMSBattResidPwr : 23|16@0+ (0.1,0) [0|100] "Ah"  GW
+ SG_ BMSBattRatedAh : 7|16@0+ (0.2,0) [0|100] "Ah"  GW
+
+BO_ 1603 BMS_GW_643: 8 BMS
+ SG_ SOC_counter_Disp : 55|16@0+ (1,0) [0|65535] ""  GW
+ SG_ BMSModTMaxBattNum : 47|8@0+ (1,0) [0|16] ""  GW
+ SG_ BMSModTMaxSesrNum : 39|8@0+ (1,0) [0|50] ""  GW
+ SG_ BMSModTMax : 31|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSModTMinBattNum : 23|8@0+ (1,0) [0|16] ""  GW
+ SG_ BMSModTMinSesrNum : 15|8@0+ (1,0) [0|50] ""  GW
+ SG_ BMSModTMin : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1587 BMS_GW_633: 8 BMS
+ SG_ BMSCellUMaxBattNum : 63|8@0+ (1,0) [0|16] ""  GW
+ SG_ BMSCellUMaxCellNum : 55|8@0+ (1,0) [0|110] ""  GW
+ SG_ BMSCellUMax : 39|16@0+ (0.001,0) [0|18] "V"  VCU,GW
+ SG_ BMSCellUMinBattNum : 31|8@0+ (1,0) [0|16] ""  GW
+ SG_ BMSCellUMinCellNum : 23|8@0+ (1,0) [0|110] ""  GW
+ SG_ BMSCellUMin : 7|16@0+ (0.001,0) [0|18] "V"  VCU,GW
+
+BO_ 1579 BMS_GW_62B: 8 BMS
+ SG_ OH_NVM_SumVehBLCCap : 55|16@0+ (0.1,0) [0|6500] ""  GW
+ SG_ OH_NVM_VehBLCNr : 39|16@0+ (1,0) [0|65535] ""  GW
+ SG_ OH_NVM_SumCharBLCCap : 23|16@0+ (0.1,0) [0|6500] ""  GW
+ SG_ OH_NVM_CharBLCNr : 7|16@0+ (1,0) [0|65535] ""  GW
+
+BO_ 1575 BMS_GW_627: 8 BMS
+ SG_ BMSRMUCellEquilnSts89 : 31|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts88 : 16|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts87 : 17|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts86 : 18|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts85 : 19|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts84 : 20|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts83 : 21|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts82 : 22|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts81 : 23|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts80 : 8|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts99 : 37|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts98 : 38|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts97 : 39|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts96 : 24|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts95 : 25|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts94 : 26|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts93 : 27|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts92 : 28|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts91 : 29|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts90 : 30|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts108 : 44|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts107 : 45|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts106 : 46|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts105 : 47|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts104 : 32|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts103 : 33|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts102 : 34|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts101 : 35|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts100 : 36|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts79 : 9|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts78 : 10|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts77 : 11|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts76 : 12|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts75 : 13|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts74 : 14|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts73 : 15|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts72 : 0|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts71 : 1|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts70 : 2|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts69 : 3|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts68 : 4|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts67 : 5|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts66 : 6|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts65 : 7|1@0+ (1,0) [0|1] ""  GW
+
+BO_ 1574 BMS_GW_626: 8 BMS
+ SG_ BMSRMUCellEquilnSts64 : 56|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts63 : 57|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts62 : 58|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts61 : 59|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts60 : 60|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts59 : 61|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts58 : 62|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts57 : 63|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts56 : 48|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts55 : 49|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts54 : 50|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts53 : 51|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts52 : 52|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts51 : 53|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts50 : 54|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts49 : 55|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts48 : 40|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts47 : 41|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts46 : 42|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts45 : 43|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts44 : 44|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts43 : 45|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts42 : 46|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts41 : 47|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts40 : 32|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts39 : 33|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts38 : 34|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts37 : 35|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts36 : 36|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts35 : 37|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts34 : 38|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts33 : 39|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts32 : 24|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts31 : 25|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts30 : 26|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts29 : 27|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts28 : 28|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts27 : 29|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts26 : 30|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts25 : 31|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts24 : 16|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts23 : 17|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts22 : 18|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts21 : 19|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts20 : 20|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts19 : 21|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts18 : 22|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts17 : 23|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts16 : 8|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts15 : 9|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts14 : 10|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts13 : 11|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts12 : 12|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts11 : 13|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts10 : 14|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts9 : 15|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts8 : 0|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts7 : 1|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts6 : 2|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts5 : 3|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts4 : 4|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts3 : 5|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts2 : 6|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRMUCellEquilnSts1 : 7|1@0+ (1,0) [0|1] ""  GW
+
+BO_ 1571 BMS_GW_623: 8 BMS
+ SG_ BMSBatt1TMax : 15|8@0+ (1,-40) [-40|125] "°„C"  GW
+ SG_ BMSBatt1TMin : 7|8@0+ (1,-40) [-40|125] "°„C"  GW
+
+BO_ 1555 BMS_GW_613: 8 BMS
+ SG_ SOH_MinCpNr_Disp : 53|7@0+ (1,0) [0|100] ""  GW
+ SG_ SOH_MaxCpNr_Disp : 62|7@0+ (1,0) [0|100] ""  GW
+ SG_ BMSSOHMinCp : 47|10@0+ (0.1,0) [0|100] ""  GW
+ SG_ BMSSOHMaxCp : 25|10@0+ (0.1,0) [0|100] ""  GW
+ SG_ BMSVehicleRunmode_SOH : 19|10@0+ (0.1,0) [0|100] ""  GW
+ SG_ BMSBattUErr : 23|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattPoleTOver : 22|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSRESSErr : 21|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattSOCJump : 20|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSVehCANErr : 15|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattSOCLo : 14|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattSOCHi : 13|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattSOCUnder : 12|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSOverCrrtChrg : 11|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSOverCrrtDischrg : 10|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattMatchErr : 9|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattconsistErr : 8|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSCellUUnder : 7|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSCellUOver : 6|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSDeltaUOver : 5|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattUnder : 4|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSBattUOver : 3|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSCellTUnder : 2|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSCellTOver : 1|1@0+ (1,0) [0|1] ""  GW
+ SG_ BMSDeltaTOver : 0|1@0+ (1,0) [0|1] ""  GW
+
+BO_ 1539 BMS_GW_603: 8 BMS
+ SG_ BMSBattNum1 : 31|4@0+ (1,0) [0|14] ""  GW
+ SG_ BMSBatt1TSnsrNumTot : 35|8@0+ (1,0) [0|254] ""  GW
+ SG_ BMSBatt1CellNumTot : 27|8@0+ (1,0) [0|254] ""  GW
+ SG_ BMSModTSnsrNumTot : 23|8@0+ (1,0) [0|254] ""  GW
+ SG_ BMSCellNumTot : 15|8@0+ (1,0) [1|254] ""  GW
+ SG_ BMSBattNumTot : 7|8@0+ (1,0) [1|254] ""  GW
+
+
+
+EV_ EnvKlemme15: 0 [0|1] "" 0 1 DUMMY_NODE_VECTOR0 Vector__XXX;
+
+CM_ SG_ 1299 BMSManfctCode "S11œÓƒøµÁ≥ÿ÷∆‘Ï¥˙¬Î£∫222£¨±Ì æΩ›Õ˛µÁ≥ÿ°¢Ω›Õ˛BCU°¢Ω›Õ˛CMU°£";
+BA_DEF_ BU_  "NodeLayerModules" STRING ;
+BA_DEF_ BO_  "GenMsgStartDelayTime" INT 0 65535;
+BA_DEF_ SG_  "NWM-WakeupAllowed" ENUM  "No","Yes";
+BA_DEF_ BO_  "NmMessage" ENUM  "no","yes";
+BA_DEF_ BO_  "GenMsgILSupport" ENUM  "No","Yes";
+BA_DEF_ BU_  "NmNode" ENUM  "no","yes";
+BA_DEF_ BU_  "NmStationAddress" INT 0 63;
+BA_DEF_  "NmBaseAddress" HEX 1024 1087;
+BA_DEF_ BO_  "GenMsgCycleTimeFast" INT 0 50000;
+BA_DEF_  "BusType" STRING ;
+BA_DEF_ BO_  "GenMsgCycleTime" INT 0 50000;
+BA_DEF_ BO_  "GenMsgDelayTime" INT 0 1000;
+BA_DEF_ BO_  "GenMsgNrOfRepetition" INT 0 999999;
+BA_DEF_ BO_  "GenMsgSendType" ENUM  "Cyclic","NotUsed","NotUsed","NotUsed","NotUsed","Cyclic","NotUsed","IfActive","NoMsgSendType","NotUsed","vector_leerstring";
+BA_DEF_ SG_  "GenSigInactiveValue" INT 0 100000;
+BA_DEF_ SG_  "GenSigSendType" ENUM  "Cyclic","OnWrite","OnWriteWithRepetition","OnChange","OnChangeWithRepetition","IfActive","IfActiveWithRepetition","NoSigSendType","NotUsed","NotUsed","NotUsed","NotUsed","NotUsed";
+BA_DEF_ SG_  "GenSigStartValue" FLOAT 0 100000000000;
+BA_DEF_DEF_  "NodeLayerModules" "CANoeILNLVector.dll";
+BA_DEF_DEF_  "GenMsgStartDelayTime" 0;
+BA_DEF_DEF_  "NWM-WakeupAllowed" "";
+BA_DEF_DEF_  "NmMessage" "no";
+BA_DEF_DEF_  "GenMsgILSupport" "Yes";
+BA_DEF_DEF_  "NmNode" "no";
+BA_DEF_DEF_  "NmStationAddress" 0;
+BA_DEF_DEF_  "NmBaseAddress" 1024;
+BA_DEF_DEF_  "GenMsgCycleTimeFast" 0;
+BA_DEF_DEF_  "BusType" "CAN";
+BA_DEF_DEF_  "GenMsgCycleTime" 0;
+BA_DEF_DEF_  "GenMsgDelayTime" 0;
+BA_DEF_DEF_  "GenMsgNrOfRepetition" 0;
+BA_DEF_DEF_  "GenMsgSendType" "NoMsgSendType";
+BA_DEF_DEF_  "GenSigInactiveValue" 0;
+BA_DEF_DEF_  "GenSigSendType" "Cyclic";
+BA_DEF_DEF_  "GenSigStartValue" 0;
+BA_ "GenMsgCycleTime" BO_ 272 10;
+BA_ "GenMsgCycleTime" BO_ 817 100;
+BA_ "GenMsgCycleTime" BO_ 801 10;
+BA_ "GenMsgCycleTime" BO_ 785 100;
+BA_ "GenMsgCycleTime" BO_ 1299 1000;
+BA_ "GenMsgCycleTime" BO_ 1043 10;
+BA_ "GenMsgCycleTime" BO_ 803 1000;
+BA_ "GenMsgCycleTime" BO_ 787 100;
+BA_ "GenMsgCycleTime" BO_ 563 100;
+BA_ "GenMsgCycleTime" BO_ 531 10;
+BA_ "GenMsgCycleTime" BO_ 275 10;
+BA_ "GenMsgCycleTime" BO_ 771 100;
+BA_ "GenMsgCycleTime" BO_ 1715 1000;
+BA_ "GenMsgCycleTime" BO_ 1699 1000;
+BA_ "GenMsgCycleTime" BO_ 1683 1000;
+BA_ "GenMsgCycleTime" BO_ 1667 1000;
+BA_ "GenMsgCycleTime" BO_ 1647 1000;
+BA_ "GenMsgCycleTime" BO_ 1646 1000;
+BA_ "GenMsgCycleTime" BO_ 1645 1000;
+BA_ "GenMsgCycleTime" BO_ 1644 1000;
+BA_ "GenMsgCycleTime" BO_ 1643 1000;
+BA_ "GenMsgCycleTime" BO_ 1642 1000;
+BA_ "GenMsgCycleTime" BO_ 1652 1000;
+BA_ "GenMsgCycleTime" BO_ 1651 1000;
+BA_ "GenMsgCycleTime" BO_ 1650 1000;
+BA_ "GenMsgCycleTime" BO_ 1649 1000;
+BA_ "GenMsgCycleTime" BO_ 1648 1000;
+BA_ "GenMsgCycleTime" BO_ 1641 1000;
+BA_ "GenMsgCycleTime" BO_ 1640 1000;
+BA_ "GenMsgCycleTime" BO_ 1639 1000;
+BA_ "GenMsgCycleTime" BO_ 1638 1000;
+BA_ "GenMsgCycleTime" BO_ 1637 1000;
+BA_ "GenMsgCycleTime" BO_ 1636 1000;
+BA_ "GenMsgCycleTime" BO_ 1635 1000;
+BA_ "GenMsgCycleTime" BO_ 1634 1000;
+BA_ "GenMsgCycleTime" BO_ 1633 1000;
+BA_ "GenMsgCycleTime" BO_ 1632 1000;
+BA_ "GenMsgCycleTime" BO_ 1619 1000;
+BA_ "GenMsgCycleTime" BO_ 1603 100;
+BA_ "GenMsgCycleTime" BO_ 1587 100;
+BA_ "GenMsgCycleTime" BO_ 1579 1000;
+BA_ "GenMsgCycleTime" BO_ 1575 1000;
+BA_ "GenMsgCycleTime" BO_ 1574 1000;
+BA_ "GenMsgCycleTime" BO_ 1571 1000;
+BA_ "GenMsgCycleTime" BO_ 1555 1000;
+BA_ "GenMsgCycleTime" BO_ 1539 1000;
+BA_ "GenSigStartValue" SG_ 817 OBCT 40;
+BA_ "GenSigStartValue" SG_ 785 OBCVehInletT 40;
+BA_ "GenSigStartValue" SG_ 803 BMSSOCMin 0;
+BA_ "GenSigStartValue" SG_ 787 BMSAvrgBattT 40;
+BA_ "GenSigStartValue" SG_ 787 BMSMinBattT 40;
+BA_ "GenSigStartValue" SG_ 787 BMSMaxBattT 40;
+BA_ "GenSigStartValue" SG_ 275 BMSBattI 6000;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT32 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT31 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT30 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT29 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT28 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT27 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT26 40;
+BA_ "GenSigStartValue" SG_ 1715 BMSModT25 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT24 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT23 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT22 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT21 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT20 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT19 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT18 40;
+BA_ "GenSigStartValue" SG_ 1699 BMSModT17 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT16 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT15 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT14 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT13 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT9 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT12 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT11 40;
+BA_ "GenSigStartValue" SG_ 1683 BMSModT10 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT8 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT7 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT6 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT5 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT4 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT3 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT2 40;
+BA_ "GenSigStartValue" SG_ 1667 BMSModT1 40;
+BA_ "GenSigStartValue" SG_ 1603 BMSModTMax 40;
+BA_ "GenSigStartValue" SG_ 1603 BMSModTMin 40;
+BA_ "GenSigStartValue" SG_ 1571 BMSBatt1TMax 40;
+BA_ "GenSigStartValue" SG_ 1571 BMSBatt1TMin 40;
+VAL_ 272 VCUChrgSspdReq 1 "Suspend" 0 "UnSuspend" ;
+VAL_ 272 MilgChrgMode 7 "‘§¡Ù" 6 "‘§¡Ù" 5 "‘§¡Ù" 4 "‘§¡Ù" 3 "‘§¡Ù" 2 "‘§¡Ù" 1 "80%SOC" 0 "100%SOC" ;
+VAL_ 272 VCUSRSCrashOutpSts 15 "Not Used" 14 "Not Used" 13 "Not Used" 12 "Not Used" 11 "Not Used" 10 "Not Used" 9 "Not Used" 8 "Not Used" 7 "Not Used" 6 "Not Used" 5 "Not Used" 4 "Not Used" 3 "Not Used" 2 "Not Used" 1 "Deployment Crash" 0 "No Crash" ;
+VAL_ 272 VCUChrgAllwd 1 "allow" 0 "not allow" ;
+VAL_ 272 VCUBattIntrHeatAllwd 1 "allow" 0 "not allow" ;
+VAL_ 272 SRSCrashSts 1 "Crash happen" 0 "No error" ;
+VAL_ 272 VCUBMSSOCEna 1 "Enable" 0 "No enable" ;
+VAL_ 272 CHMAsignalSts 1 "valid" 0 "invalid" ;
+VAL_ 272 VCUChrgIReqLimFac 3 "0%" 2 "30%" 1 "70%" 0 "100%" ;
+VAL_ 272 VCUVehSts 7 "‘§¡Ù" 6 "‘§¡Ù" 5 "‘§¡Ù" 4 "Failure" 3 "Charge" 2 "Regeneration" 1 "EV Drive" 0 "Standstill" ;
+VAL_ 272 VCUBMSOperModReq 5 "Failure" 4 "Powerdown" 3 "HVActive" 2 "PreCharge" 1 "Standby" 0 "Initializing" ;
+VAL_ 817 OBCInpIOver 1 "Over" 0 "Normal" ;
+VAL_ 817 OBCOutpIOver 1 "Over" 0 "Normal" ;
+VAL_ 817 OBCTOvrErr 1 "Over" 0 "Normal" ;
+VAL_ 817 OBCCANErr 1 "error" 0 "No error" ;
+VAL_ 817 OBCHwErr 1 "error" 0 "No error" ;
+VAL_ 817 OBCInpUOver 1 "Over" 0 "Normal" ;
+VAL_ 817 OBCOutpUOver 1 "Over" 0 "Normal" ;
+VAL_ 817 OBCInpUUnder 1 "Under" 0 "Normal" ;
+VAL_ 817 OBCOutpUUnder 1 "Under" 0 "Normal" ;
+VAL_ 801 CPSts 1 "valid" 0 "invalid" ;
+VAL_ 785 OBCS2Stus 1 "±’∫œ" 0 "∂œø™" ;
+VAL_ 785 OBCChrgSts 6 "Sleep" 5 "Unrecoverable fault" 4 "Recoverable fault" 3 "Derating" 2 "Charging" 1 "Standby" 0 "Init" ;
+VAL_ 785 PlugLockStatus 2 "Failure" 1 "lock" 0 "unlock" ;
+VAL_ 803 BMSEquilnSts 1 "equilibrium" 0 "no equilibrium" ;
+VAL_ 787 BMSMILReq 1 "request" 0 "not request" ;
+VAL_ 787 BMSBattIntrHeatReq 2 "cool" 1 "heat" 0 "not heat and cool" ;
+VAL_ 787 BMSBattIntrHeatActv 2 "cool active" 1 "heat active" 0 "no active" ;
+VAL_ 275 BMSRlyWlddErr 1 "error" 0 "No error" ;
+VAL_ 275 BMSInsulationSts 1 "error" 0 "No error" ;
+VAL_ 275 BMSInsulationIntrErr 1 "error" 0 "No error" ;
+VAL_ 275 BMSInsulationHVLoadErr 1 "error" 0 "No error" ;
+VAL_ 275 BMSOperMod 5 "Ready to Sleep" 4 "Powerdown " 3 "HVActive" 2 "PreCharge" 1 "Ready to Sleep" 0 "Standby" ;
+VAL_ 275 BMSOBCOperModReq 2 "‘§¡Ù" 1 "HV output enable" 0 "standby" ;
+VAL_ 275 BMSPwrUpAllw 1 "allow" 0 "not allow" ;
+VAL_ 275 BMSHVILSts 1 "error" 0 "no error" ;
+VAL_ 275 BMSCrashSts 1 "error" 0 "no error" ;
+VAL_ 275 BMSFltRnk 5 "fault rank 5" 4 "fault rank 4" 3 "fault rank 3" 2 "fault rank 2" 1 "fault rank 1" 0 "no error" ;
+VAL_ 771 BMSChrgMod 7 "‘§¡Ù" 6 "‘§¡Ù" 5 "‘§¡Ù" 4 "‘§¡Ù" 3 "charge unconventionality" 2 "DC charge" 1 "AC charge" 0 "no charge mode" ;
+VAL_ 771 BMSChrgErrInfo 15 "±£¡Ù" 14 "±£¡Ù" 13 "±£¡Ù" 12 "±£¡Ù" 11 "±£¡Ù" 10 "±£¡Ù" 9 "Œﬁ∑®≥‰µÁ£¨«Î÷¥––≥‰µÁ∆Ù∂Ø≤Ÿ◊˜" 8 "±£¡Ù" 7 "±£¡Ù" 6 "±£¡Ù" 5 "±£¡Ù" 4 "±£¡Ù" 3 "±£¡Ù" 2 "±£¡Ù" 1 "±£¡Ù" 0 "±£¡Ù" ;
+VAL_ 771 BMSChrgSts 3 "charge end" 2 "full of charge" 1 "charging" 0 "uncharged" ;
+VAL_ 771 BMSDCChrgRlySts 1 "close" 0 "off" ;
+VAL_ 771 BMSOBCHeatModeCtrl 1 "heating mode" 0 "not  heating mode" ;
+VAL_ 1575 BMSRMUCellEquilnSts89 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts88 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts87 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts86 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts85 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts84 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts83 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts82 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts81 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts80 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts99 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts98 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts97 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts96 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts95 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts94 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts93 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts92 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts91 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts90 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts108 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts107 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts106 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts105 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts104 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts103 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts102 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts101 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts100 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts79 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts78 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts77 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts76 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts75 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts74 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts73 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts72 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts71 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts70 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts69 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts68 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts67 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts66 1 "YES" 0 "NO" ;
+VAL_ 1575 BMSRMUCellEquilnSts65 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts64 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts63 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts62 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts61 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts60 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts59 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts58 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts57 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts56 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts55 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts54 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts53 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts52 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts51 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts50 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts49 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts48 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts47 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts46 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts45 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts44 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts43 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts42 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts41 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts40 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts39 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts38 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts37 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts36 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts35 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts34 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts33 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts32 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts31 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts30 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts29 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts28 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts27 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts26 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts25 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts24 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts23 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts22 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts21 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts20 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts19 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts18 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts17 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts16 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts15 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts14 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts13 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts12 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts11 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts10 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts9 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts8 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts7 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts6 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts5 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts4 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts3 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts2 1 "YES" 0 "NO" ;
+VAL_ 1574 BMSRMUCellEquilnSts1 1 "YES" 0 "NO" ;
+VAL_ 1555 BMSBattUErr 1 "error" 0 "No error" ;
+VAL_ 1555 BMSBattPoleTOver 1 "error" 0 "No error" ;
+VAL_ 1555 BMSRESSErr 1 "error" 0 "No error" ;
+VAL_ 1555 BMSBattSOCJump 1 "error" 0 "No error" ;
+VAL_ 1555 BMSVehCANErr 1 "CAN error" 0 "No error" ;
+VAL_ 1555 BMSBattSOCLo 1 "SOC too low" 0 "No error" ;
+VAL_ 1555 BMSBattSOCHi 1 "SOC too high" 0 "No error" ;
+VAL_ 1555 BMSBattSOCUnder 1 "SOC under" 0 "No error" ;
+VAL_ 1555 BMSOverCrrtChrg 1 "over current" 0 "No error" ;
+VAL_ 1555 BMSOverCrrtDischrg 1 "over current" 0 "No error" ;
+VAL_ 1555 BMSBattMatchErr 1 "error" 0 "No error" ;
+VAL_ 1555 BMSBattconsistErr 1 "error" 0 "No error" ;
+VAL_ 1555 BMSCellUUnder 1 "under voltage" 0 "No error" ;
+VAL_ 1555 BMSCellUOver 1 "over voltage" 0 "No error" ;
+VAL_ 1555 BMSDeltaUOver 1 "over voltage" 0 "No error" ;
+VAL_ 1555 BMSBattUnder 1 "under voltage" 0 "No error" ;
+VAL_ 1555 BMSBattUOver 1 "over voltage" 0 "No error" ;
+VAL_ 1555 BMSCellTUnder 1 "under temperature" 0 "No error" ;
+VAL_ 1555 BMSCellTOver 1 "over temperature" 0 "No error" ;
+VAL_ 1555 BMSDeltaTOver 1 "over temperature" 0 "No error" ;
+
